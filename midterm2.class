@@ -1,0 +1,35 @@
+import java.util.scanner;
+class midterm2
+{
+public static void main(String[] args)
+	 {
+	 Scanner obj=new Scanner(System.in); 
+	 {
+	 
+	 int a;
+	 int b;
+	 int c;
+	 int d;
+	 int e;
+	 
+	 System.out.println("Enter number + a");
+	 a=scan.next.Int();
+	 
+	 System.out.println("Enter number + b");
+	 b=scan.next.Int();
+	 
+	 System.out.println("Enter number + c");
+	 c=scan.next.Int();
+	 
+	 System.out.println("Enter number + d");
+	 d=scan.next.Int();
+	 
+	 System.out.println("Enter number + e");
+	 e=scan.next.Int();	
+	 
+	System.out.println("a+, "b+, "c+, "d+, "e+);
+	 
+	}
+	
+	}
+}
